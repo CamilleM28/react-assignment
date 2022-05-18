@@ -7,6 +7,6 @@
 App functionality:
 
 * Search the iTunes store using the search bar
-* Add and remove items from basket
-* The basket displays the number of items added
+* Add items to and from basket
+* The basket displays the item count and the total price
 * Paginated results
